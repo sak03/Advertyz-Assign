@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  overflow-x: hidden;
+}
+.loader {
+  display: none !important;
+}
+.pic {
+  height: 80vh;
+}
+.img1 {
+  width: 20vw;
+  height: 25vh;
+}
+.card1 {
+  transition: all 0.25s;
+}
+.card1:hover {
+  transform: scale(1.1);
+}
+
+span {
+  color: red;
+}
+h2 {
+  font-family: "Roboto", sans-serif;
+}
