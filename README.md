@@ -16,3 +16,5 @@ TODO: to make good UI, we use Bootstrap 5.1
 ]]></content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
+## GitHub page link
+TODO: https://sak03.github.io/Advertyz-Assign/ Click here to see the preview
