@@ -1,0 +1,3 @@
+Hello there,
+This is fetched data from card buttons called "See mode details" and "Ask an expert".
+This is only for showing to fetch data from local and text type.
